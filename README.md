@@ -41,7 +41,7 @@ To use the ft_printf function in your projects, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/ft_printf.git
+   git clone [https://github.com/your-username/ft_printf.git](https://github.com/V4R3J4O/FT_PRINTF.git)
 
 2. Change to the project directory:
     ```shel
